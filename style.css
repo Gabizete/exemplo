@@ -1,4 +1,11 @@
-.dupla img {
-    width: 300pt;
-    height: 200pt;
+body {
+    font-family: 'Lora';font-size: 18px;
+    background-color: #7d1673;
+    color: #d8e6ea;
+    text-align: center;
+}
+
+div{
+    justify-content: space-between;
+    display:flex;
 }
